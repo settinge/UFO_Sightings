@@ -5,7 +5,7 @@ filter the table data for specific values.
 
 Languages used includes: JavaScript, HTML, CSS, and D3.js.
 
-### Level 1: Automatic Table and Date Search 
+### Automatic Table and Date Search 
 
 * Created a basic HTML web page (index.html)
 
@@ -14,4 +14,15 @@ Languages used includes: JavaScript, HTML, CSS, and D3.js.
 *  Columns included: `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
 * Used a date form in my HTML document and wrote JavaScript code that listens for events and searches through the `date/time` column to find rows that match user input.
+
+## Screenshots
+
+![ScreenShot](Home.JPG)
+
+ Screenshot of home page display
+ 
+ ![ScreenShot](Table.JPG)
+ 
+Screenshot of UFO data table. I used a table to hold my data because I wanted the user to be able to see all of the detail pertaining to UFO sightings. In addition, the filter    box enables the user to limit data if they choose to. 
+
 
