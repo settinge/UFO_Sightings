@@ -5,6 +5,16 @@ filter the table data for specific values.
 
 Languages used includes: JavaScript, HTML, CSS, and D3.js.
 
+## How to Run Code
+
+1. Clone the repository to a directory on your computer
+
+2. Open the repository on a code source editor and navigate to UFO-level-1>index.html
+
+3. Right click and click on "Open with live server"
+
+4. Scroll down on the webpage in the browser to see the data
+
 ### Automatic Table and Date Search 
 
 * Created a basic HTML web page (index.html)
